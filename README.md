@@ -29,3 +29,10 @@ Project Modules
 - Book Catalog
 - Borrowing
 - Returning
+
+Project Modules
+
+- Book Catalog
+- Inventory Management
+- Reports
+- User Accounts
