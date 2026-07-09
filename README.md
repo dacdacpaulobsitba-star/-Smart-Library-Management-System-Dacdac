@@ -34,11 +34,3 @@ Project Modules
 - User Accounts
 
 - _Last updated during GitHub Actions laboratory._
-Contributor Update
-
-Contributor Name:
-(BSIT BA 2C DACDAC)
-
-Feature Added:
-- Digital Library Dashboard
-
