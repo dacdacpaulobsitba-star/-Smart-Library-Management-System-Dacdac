@@ -34,5 +34,11 @@ Project Modules
 - User Accounts
 
 - _Last updated during GitHub Actions laboratory._
+Contributor Update
 
+Contributor Name:
+(Ilagay ang iyong pangalan)
+
+Feature Added:
+- Digital Library Dashboard
 
