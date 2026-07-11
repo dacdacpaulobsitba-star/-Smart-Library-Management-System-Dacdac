@@ -35,7 +35,7 @@ Project Modules
 
 - _Last updated during GitHub Actions laboratory._
 
-Contributor Name: Neil 
+Contributor Name: Neil Ivan Ramos
 
 Feature Added:
 - Digital Library Dashboard
