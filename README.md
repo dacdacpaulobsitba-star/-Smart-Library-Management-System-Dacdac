@@ -34,3 +34,9 @@ Project Modules
 - User Accounts
 
 - _Last updated during GitHub Actions laboratory._
+
+Contributor Name: Neil 
+
+Feature Added:
+- Digital Library Dashboard
+
